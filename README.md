@@ -2,6 +2,8 @@
 
 A terminal-based C++ implementation of the classic 2048 puzzle game with smooth gameplay mechanics and intelligent tile merging!
 
+![2048 Game Screenshot](screenshot.png)
+
 ## ✨ Features
 
 * **Classic 2048 Gameplay**
